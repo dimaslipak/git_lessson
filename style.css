@@ -1,0 +1,12 @@
+button {
+    background-color: #98FB98;
+    width: 100px;
+    padding: 10px;
+
+}
+input {
+    border-color: #DC143C;
+    width: 300px;
+    padding: 10px;
+    margin-left: 10px;
+}
